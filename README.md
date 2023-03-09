@@ -6,7 +6,7 @@ Hi, I'm Mahmoud!
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=34&duration=2000&pause=1500&color=555EFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=software+engineer_;backend+developer_;problem+solving+enthusiast_" >
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=34&duration=2000&pause=1500&color=555EFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=software+engineer_;backend+developer_;tech+enthusiast_" >
 </p>
 
 <!-- Social icons section -->
