@@ -21,9 +21,9 @@ Hi, I'm Mahmoud!
 
 # 🚀 About me
 
-## 👨‍💻 I'm currently working on *my porfolio*
+### 👨‍💻 I'm currently working as freelancer
 
-## 🧠 I'm currently learning *NestJS*
+### 🧠 I'm currently learning *NestJS*
 
 # 💎 My Favorite Tools
 
