@@ -11,7 +11,7 @@ Hi, I'm Mahmoud!
 
 <!-- Social icons section -->
 <div align="center">
-  <a href="https://t.me/grepm"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"></a>
+  <a href="https://t.me/mmudx"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:waves_limos_0k@icloud.com"><img width="32px" alt="Email" title="Email" src="https://cdn-icons-png.flaticon.com/512/893/893257.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -21,9 +21,9 @@ Hi, I'm Mahmoud!
 
 # 🚀 About me
 
-### 👨‍💻 I'm currently working as freelancer
+### 👨‍💻 I'm currently working as *Full Stack Freelancer*
 
-### 🧠 I'm currently learning *NestJS*
+### 🧠 I'm currently learning *Go*
 
 # 💎 My Favorite Tools
 
